@@ -1,0 +1,13 @@
+Flask==0.12.2
+Werkzeug<0.13.0,>=0.12.0
+Dialogflow
+google-cloud
+google-cloud-language
+line-bot-sdk
+grpcio
+gevent
+gunicorn
+pyrebase
+google-cloud-firestore
+google-cloud-vision
+pyyaml

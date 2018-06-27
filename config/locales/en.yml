@@ -1,0 +1,4 @@
+basic:
+  join: "Hello. How may I be of service?"
+  image_recog: "I think this is a pic of '{}'."
+  fallback: "I don't quite understand, {}."
